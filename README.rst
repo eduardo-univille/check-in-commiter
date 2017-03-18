@@ -2,23 +2,6 @@
 CHECK-IN Commiter
 =================
 
-Commita presença no repositório de chamada.
+**Projeto movido!**
 
-
-Uso
-===
-
-curl
-----
-
-.. code-block:: sh
-
-  curl -sSL https://github.com/eduardo-univille/check-in-commiter/raw/master/check-in-commiter | bash
-
-
-GNU Wget
---------
-
-.. code-block:: sh
-
-  wget -O - https://github.com/eduardo-univille/check-in-commiter/raw/master/check-in-commiter | bash
+Novo endereço: https://github.com/eduardoklosowski/check-in-commiter
